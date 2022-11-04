@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "labfront-b3c6d",
     "public": "build",
     "ignore": [
       "firebase.json",
